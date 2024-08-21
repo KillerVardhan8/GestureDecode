@@ -1,7 +1,7 @@
 # GestureDecode
 ## Project Title : Sign Language Interpretation
 
-The Sign Language Interpretation project focuses on recognizing and interpreting hand gestures to facilitate communication for individuals who use sign language. This project leverages computer vision and machine learning techniques to accurately identify and translate hand signs into text
+The Sign Language Interpretation project focuses on recognizing and interpreting hand gestures to facilitate communication for individuals who use sign language. This project leverages computer vision and machine learning techniques to accurately identify and translate hand signs into text.
 
 ### Features:
 
